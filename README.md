@@ -2,7 +2,8 @@
 This is a collection of notes which CJ compiled as a beginner in biophysics during her participation in an undergraduate innovation training program in 2025. She continuously refined it during further practice. Hopefully it can be of some help to students who are new to biophysics.
 
 ## 一些说明
-- `核酸适配体折叠动力学探究课题笔记`：这是我当新手时写的，在后来练习的过程中慢慢补充和修正了。它包括入门时看懂谭老师的笔记需要了解的术语、陆达理堂214一些仪器的注意事项、生物物理一些基本实验的配方和流程、打磁镊chamber的步骤等等。它的普适性比`大创极简.pdf`的强一些，但里面的一切内容还是要以老师和师兄师姐为准。
+- 本人的水平有限，这里提到的一切内容如果和老师、师兄师姐的表述有冲突，请相信老师和师兄师姐。
+- `核酸适配体折叠动力学探究课题笔记`：这是我当新手时写的，在后来练习的过程中慢慢补充和修正了。它包括入门时看懂谭老师的笔记需要了解的术语、陆达理堂214一些仪器的注意事项、生物物理一些基本实验的配方和流程、打磁镊chamber的步骤等等。它的普适性比`大创极简.pdf`的强一些。
 - `大创极简.pdf`：这是我在项目进行到后期的时候写的，它浓缩了我的项目（核酸适配体折叠动力学探究）的步骤和配方，几乎省略了所有的解释和我的理解。其中涉及制备RNA的磁镊样品、打chamber的部分。也许对需要使用磁镊的同学有用。
 - 未压缩的笔记(`pdf`)和`.zip`文件太大了，我暂时还没有学会上传大文件。
 
